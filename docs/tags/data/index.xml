@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data on Marek Malík, Hugo New Site</title>
-    <link>https://marekmalik.github.io/hugo-start/tags/data/</link>
-    <description>Recent content in Data on Marek Malík, Hugo New Site</description>
+    <title>Data on Conversational UI</title>
+    <link>https://marekmalik.github.io/conversational-ui/tags/data/</link>
+    <description>Recent content in Data on Conversational UI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://marekmalik.github.io/hugo-start/tags/data/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://marekmalik.github.io/conversational-ui/tags/data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>All albums of The Beatles</title>
-      <link>https://marekmalik.github.io/hugo-start/post/another-post/</link>
+      <link>https://marekmalik.github.io/conversational-ui/post/another-post/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://marekmalik.github.io/hugo-start/post/another-post/</guid>
+      <guid>https://marekmalik.github.io/conversational-ui/post/another-post/</guid>
       <description>&lt;p&gt;This is just another post. And it illustrates a mighty functionality.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
